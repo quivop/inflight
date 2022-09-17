@@ -170,7 +170,7 @@ function InFlight:LoadBulk()  -- called from InFlight_Load
 	end
 
 	-- Check that this is the right version of the client
-	if select(4, GetBuildInfo()) > 30000 then
+	if select(4, GetBuildInfo()) > 40000 then
 		Print(L["AddonDisabled"])
 		DisableAddOn("InFlight")
 		return
