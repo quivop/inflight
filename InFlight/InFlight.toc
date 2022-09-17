@@ -14,6 +14,8 @@
 ## Author: jinjin50
 ## Version: 1.0.0
 
+## X-Wago-ID: PANzl0k4
+
 ## SavedVariables: InFlightDB
 ## Dependencies: InFlight_Load
 ## OptionalDeps: Ace3, LibSharedMedia-3.0
